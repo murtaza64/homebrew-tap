@@ -4,8 +4,8 @@
 class Pywal < Formula
   desc "pywal fork with OKLCH palettes, a semantic palette contract and Palette Studio"
   homepage "https://github.com/murtaza64/pywal"
-  url "https://github.com/murtaza64/pywal/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "a5ff0946970b1f69e2f81ccc73e9dcfbfd92300a74308058be71272d762ce7dd"
+  url "https://github.com/murtaza64/pywal/archive/refs/tags/v0.3.2.tar.gz"
+  sha256 "3c231ca235addb2509349198d07e155b77314d7977f003a995806af623aadb39"
   license "MIT"
 
   depends_on "uv"
